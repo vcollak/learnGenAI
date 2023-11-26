@@ -58,19 +58,18 @@ Default output format [None]:
 If you don't know what your KEY and secret are, you can follow below steps:
 
 1. Access the security page:
-
 ![security page](images/aws_1.png)
+
 2. Click on "Create Access Key"
-
 ![security page](images/aws_2.png)
+
 3. Specify CLI option
-
 ![security page](images/aws_3.png)
+
 4. Optionally set a tag
-
 ![security page](images/aws_4.png)
-5. Save your key and secret
 
+5. Save your key and secret
 ![security page](images/aws_5.png)
 
 
