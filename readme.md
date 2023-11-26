@@ -58,6 +58,7 @@ Default output format [None]:
 If you don't know what your KEY and secret are, you can follow below steps:
 
 1. Access the security page:
+
 ![security page](images/aws_1.png)
 
 2. Click on "Create Access Key"
