@@ -111,7 +111,8 @@ The actual body of the response is in the `body` object. Here it is:
    "completion":" Here is a 97 word summary of the book 'Zero to One' by Peter Thiel:\n\nThe book argues that true innovation comes from doing something completely new, not just iterating on what already exists. It encourages thinking from first principles and developing unique insights. The book advises founders to focus on creating monopolies by starting small but with a large vision. It suggests finding secrets - problems hidden in plain sight that you can solve in a proprietary way. Overall, the book makes the case that going from zero to one - true innovation - creates enormous value, whereas going from one to n - incrementalism - does not.",
    "stop_reason":"stop_sequence",
    "stop":"\n\nHuman:"
-}```
+}
+```
 
 
 
