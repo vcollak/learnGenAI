@@ -80,10 +80,12 @@ python examples/0_s3_test.py
 ```
 
 ## Calling Bedrock services
-To make our first call, simply execute:
+To make our first call, simply execute below code. Open the [1_hello_claude.py](examples/1_hello_claude.py) file and take a look at comments to better understand it. 
 ```bash
 python examples/1_hello_claude.py
 ```
+
+
 
 This will leverage your AWS credentials and call Bedrock. The code uses the Claude model. You should see something like:
 
